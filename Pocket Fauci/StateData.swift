@@ -11,4 +11,6 @@ import Foundation
 struct StateData: Codable {
     var state: String
     var positive: Int
+    var hospitalizedCurrently: Int?
+    var death: Int
 }

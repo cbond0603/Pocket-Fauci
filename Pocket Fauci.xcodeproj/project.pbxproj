@@ -15,6 +15,8 @@
 		9327A779280B23F80044C8D5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9327A777280B23F80044C8D5 /* LaunchScreen.storyboard */; };
 		9327A781280B25F10044C8D5 /* StateData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9327A780280B25F00044C8D5 /* StateData.swift */; };
 		9327A783280B2AE60044C8D5 /* CoronaData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9327A782280B2AE50044C8D5 /* CoronaData.swift */; };
+		9327A785280B35EE0044C8D5 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9327A784280B35EE0044C8D5 /* DetailViewController.swift */; };
+		9327A787280B422E0044C8D5 /* SplashScreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9327A786280B422D0044C8D5 /* SplashScreenViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +30,8 @@
 		9327A77A280B23F80044C8D5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9327A780280B25F00044C8D5 /* StateData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateData.swift; sourceTree = "<group>"; };
 		9327A782280B2AE50044C8D5 /* CoronaData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoronaData.swift; sourceTree = "<group>"; };
+		9327A784280B35EE0044C8D5 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		9327A786280B422D0044C8D5 /* SplashScreenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashScreenViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,7 +68,9 @@
 				9327A76E280B23F30044C8D5 /* SceneDelegate.swift */,
 				9327A780280B25F00044C8D5 /* StateData.swift */,
 				9327A782280B2AE50044C8D5 /* CoronaData.swift */,
+				9327A786280B422D0044C8D5 /* SplashScreenViewController.swift */,
 				9327A770280B23F30044C8D5 /* ViewController.swift */,
+				9327A784280B35EE0044C8D5 /* DetailViewController.swift */,
 				9327A772280B23F30044C8D5 /* Main.storyboard */,
 				9327A775280B23F80044C8D5 /* Assets.xcassets */,
 				9327A777280B23F80044C8D5 /* LaunchScreen.storyboard */,
@@ -146,7 +152,9 @@
 			files = (
 				9327A771280B23F30044C8D5 /* ViewController.swift in Sources */,
 				9327A781280B25F10044C8D5 /* StateData.swift in Sources */,
+				9327A787280B422E0044C8D5 /* SplashScreenViewController.swift in Sources */,
 				9327A76D280B23F30044C8D5 /* AppDelegate.swift in Sources */,
+				9327A785280B35EE0044C8D5 /* DetailViewController.swift in Sources */,
 				9327A76F280B23F30044C8D5 /* SceneDelegate.swift in Sources */,
 				9327A783280B2AE60044C8D5 /* CoronaData.swift in Sources */,
 			);
